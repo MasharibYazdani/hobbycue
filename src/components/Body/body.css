@@ -1,0 +1,18 @@
+.body {
+    /* width: 1440px;
+    height: 678px; */
+    background-color: #F7F5F9;
+    
+}
+
+.googleFB{
+    width: 410px;
+    height: 40px;
+    border: 1px #8064A2 solid;
+    border-radius: 8px;
+}
+
+.hov:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}

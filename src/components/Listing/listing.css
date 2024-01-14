@@ -1,0 +1,87 @@
+ .heading:hover{
+    cursor: pointer;
+ }
+ .div-1{
+    width: 360px;
+    height: 175px;
+    border: 1px solid #8064A2;
+    margin-left: 25%;
+    padding: 10px; 
+    border-radius: 8px;
+}
+
+.div-2{
+    width: 360px;
+    height: 175px;
+    border: 1px solid #77933C;
+    padding: 10px; 
+    margin-right: 25%;
+    border-radius: 8px;
+}
+
+.div-3{
+    width: 360px;
+    height: 175px;
+    border: 1px solid  #C0504D;
+    padding: 10px; 
+    border-radius: 8px;
+    margin-left: 25%;
+}
+
+.div-4{
+    width: 360px;
+    height: 175px;
+    border: 1px solid #0096C8;
+    padding: 10px; 
+    border-radius: 8px;
+} 
+
+
+
+.div-1:hover{
+    color: white;
+    background-color:#8064A2 ;
+    cursor: pointer;
+   
+}
+
+.div-2:hover{
+    color: white;
+    background-color:#77933C ;
+    cursor: pointer;
+    
+}
+
+.div-3:hover{
+    color: white;
+    background-color:#C0504D ;
+    cursor: pointer;
+    
+}
+
+.div-4:hover{
+    color: white;
+    background-color:#0096C8 ;
+    cursor: pointer;
+} 
+
+.div-1:hover img{
+    filter: brightness(500%);
+   
+}
+
+.div-2:hover img{
+    filter: brightness(500%);
+    
+}
+
+.div-3:hover img{
+    filter: brightness(500%);
+    
+}
+
+.div-4:hover img{
+    filter: brightness(500%);
+} 
+
+

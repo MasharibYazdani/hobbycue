@@ -1,0 +1,48 @@
+.last{
+    height: 662px;
+    width:100%;
+}
+
+.last-head{
+    width: auto;
+    height: auto;
+    margin: 50px;
+    padding: 50px;
+    text-align: start;
+}
+
+.last-btn{
+    background-color: #8064A2;
+    border: #8064A2;
+}
+
+.last-btn:hover{
+    background-color: #8064A2;
+    border: #8064A2;
+}
+
+.last-img{
+    width: 50%;
+    margin-left: 50px;
+}
+
+.foot-search{
+    border:1px solid #8064A2;
+}
+
+.foot-hov:hover{
+    cursor: pointer;
+}
+
+.foot{
+    
+    width: 100%;
+    height: 10vh;
+    margin-top: 20px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    
+  
+    background-color: #F7F5F9;
+}

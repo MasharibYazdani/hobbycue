@@ -1,0 +1,24 @@
+.addown{
+    height: 284px;
+    width: 1240px;
+    border: 1px #CED4DA solid;
+    text-align: start;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.btn-add{
+    color: #8064A2 ;
+    border: 1px solid #8064A2;
+    font-weight: bold;
+}
+
+.btn-add:hover{
+    color: #8064A2 ;
+    border: 1px solid #8064A2;
+    font-weight: bold;
+    background-color: #cab3e7;
+}
