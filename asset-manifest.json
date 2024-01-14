@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hobbycue/static/css/main.4e872185.css",
+    "main.js": "/hobbycue/static/js/main.e656e0e2.js",
+    "static/media/GroupPiic.png": "/hobbycue/static/media/GroupPiic.2d081cbd2338335e4f5b.png",
+    "static/media/GroupPic.png": "/hobbycue/static/media/GroupPic.829299e6a5e108946c9c.png",
+    "index.html": "/hobbycue/index.html",
+    "main.4e872185.css.map": "/hobbycue/static/css/main.4e872185.css.map",
+    "main.e656e0e2.js.map": "/hobbycue/static/js/main.e656e0e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e872185.css",
+    "static/js/main.e656e0e2.js"
+  ]
+}
